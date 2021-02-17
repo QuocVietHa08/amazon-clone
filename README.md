@@ -1,7 +1,7 @@
 # This is the AMAZON CLONE WITH FULL FUNCTION
 
 Some of it first image
-
+![](https://github.com/QuocVietHa08/amazon-clone/blob/master/amazon.png);
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
